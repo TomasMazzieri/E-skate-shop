@@ -85,8 +85,17 @@ h1 ,h2, h3 {
     font-family: Arial, Helvetica, sans-serif;
     color: brown;
 }
+
+.nombreskaters {
+    font-size: 50px !important;
+    color: white;
+    background-color: rgba(34, 21, 21, 0.5);
+    padding: 10px;
+    margin-left: 550px;
+    margin-right: 550px;
+}
 /*Inicio estilos de los parrafos*/
-p {
+.parrafosimportantes {
     text-align: center ;
     font-family: Arial, Helvetica, sans-serif;
     background-color: brown;
